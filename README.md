@@ -1,6 +1,6 @@
 # Fitness & Habit Tracking Platform with Wearable-Style Time-Series Simulation
 
-DBMS Level 3 mini-project, PES University. A fitness and habit tracker built on a **hybrid DBMS**:
+DBMS mini-project. A fitness and habit tracker built on a **hybrid DBMS**:
 **MySQL** holds structured, related data (users, roles, profiles, plans, exercises, sessions, sets, goals, habits, schedules, coaches, subscriptions),
 and **Redis** (Memurai on Windows, or Redis in WSL) holds the high-volume and flexible data
 (simulated wearable time series, daily totals, journal entries, progress-photo metadata).
